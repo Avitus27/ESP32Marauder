@@ -149,14 +149,10 @@ class WiFiScan
     String alfa = "1234567890qwertyuiopasdfghjkklzxcvbnm QWERTYUIOPASDFGHJKLZXCVBNM_";
 
     char* rick_roll[8] = {
-      "01 Never gonna give you up",
-      "02 Never gonna let you down",
-      "03 Never gonna run around",
-      "04 and desert you",
-      "05 Never gonna make you cry",
-      "06 Never gonna say goodbye",
-      "07 Never gonna tell a lie",
-      "08 and hurt you"
+      "Attack on Titan is MID",
+      "One Piece is MID",
+      "MHA-BNH is MID",
+      "JJBA is MID"
     };
 
     char* prefix = "G";
